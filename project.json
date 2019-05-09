@@ -1,0 +1,37 @@
+{
+    "project": {
+        "full_name": "VESC",
+        "slug": "vesc",
+        "short_description": "Ce projet récapitule tous les éléments nécessaires pour faire fonctionner un moteur électrique de vélo avec une carte de contrôle désigner par Benjamin Vedder.",
+        "lang": "fr",
+        "license": "CC BY",
+        "about": "Ce projet récapitule tous les éléments nécessaires pour faire fonctionner un moteur électrique de vélo avec une carte de contrôle désigner par Benjamin Vedder.",
+        "status": "draft",
+        "links": [
+            {
+                "url": "https://rennes.humanlab.me/projet/vesc/",
+                "text": "page d'accueil du projet sur le GesLab",
+                "fa5_icon": "fas fa-home"
+            },
+            {
+                "url": "http://wikilab.myhumankit.org/index.php?title=Projets:Vesc",
+                "text": "page wiki du projet sur le wiki du Humanlab",
+                "fa5_icon": "fab fa-wikipedia-w"
+            },
+            
+            {
+                "url": "https://github.com/myhumankit/vesc",
+                "text": "code source de la documentation sur GitHub",
+                "fa5_icon": "fab fa-github"
+            }
+        ],
+        "contributors": [
+            {
+                "full_name": "Yohann Véron",
+                "email": "yo@myhumankit.org",
+                "github_username": "dubhalley",
+                "role": "Fabmanager référent"
+            }
+        ]
+    }
+}
