@@ -124,12 +124,17 @@
             {
                 "title": "Fixer tous les éléments dans le tableau de bord",
                 "duration": 300,
-                "content": "Arduino\nDisjoncteur\nWattmetre\nEcran de l'Arduino\nModule abaisseur de tension"
+                "content": "Arduino\nDisjoncteur\nWattmetre\nEcran de l'Arduino\nEncodeur rotatif\nModule abaisseur de tension"
             },
             {
                 "title": "Souder tous les fils",
                 "duration": 300,
                 "content": "Souder tous les éléments ensemble avec les bonnes longueurs de fils."
+            },
+            {
+                "title": "Charger le programme dans l'Arduino",
+                "duration": 300,
+                "content": "Charger le .ino dans votre arduino"
             },
             {
                 "title": "Souder les fils sur le VESC",
