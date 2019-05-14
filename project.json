@@ -2,10 +2,10 @@
     "project": {
         "full_name": "VESC",
         "slug": "vesc",
-        "short_description": "Ce projet récapitule tous les éléments nécessaires pour faire fonctionner un moteur électrique de vélo avec une carte de contrôle désigner par Benjamin Vedder.",
+        "short_description": "Ce projet récapitule tous les éléments nécessaires pour réaliser un banc de puissance pour moteur de vélo électrique et faire fonctionner un moteur électrique de vélo avec une carte de contrôle désigner par Benjamin Vedder. https://vesc-project.com/",
         "lang": "fr",
-        "license": "CC BY",
-        "about": "Ce projet récapitule tous les éléments nécessaires pour faire fonctionner un moteur électrique de vélo avec une carte de contrôle désigner par Benjamin Vedder.",
+        "license": "CC BY-SA",
+        "about": "Ce projet récapitule tous les éléments nécessaires pour réaliser un banc de puissance pour moteur de vélo électrique et faire fonctionner un moteur électrique de vélo avec une carte de contrôle désigner par Benjamin Vedder. https://vesc-project.com/",
         "status": "draft",
         "links": [
             {
@@ -18,19 +18,26 @@
                 "text": "page wiki du projet sur le wiki du Humanlab",
                 "fa5_icon": "fab fa-wikipedia-w"
             },
-            
             {
                 "url": "https://github.com/myhumankit/vesc",
                 "text": "code source de la documentation sur GitHub",
                 "fa5_icon": "fab fa-github"
+            },
+            {
+                "url": "https://vesc-project.com/",
+                "text": "Site officiel du projet VESC"
             }
         ],
         "contributors": [
             {
                 "full_name": "Yohann Véron",
+                "role": "Fabmanager référent",
                 "email": "yo@myhumankit.org",
-                "github_username": "dubhalley",
-                "role": "Fabmanager référent"
+                "github_username": "dubhalley"
+            },
+            {
+                "full_name": "Guillaume Sabin",
+                "role": "Porteur de projet"
             }
         ]
     }
