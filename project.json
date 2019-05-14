@@ -39,6 +39,98 @@
                 "full_name": "Guillaume Sabin",
                 "role": "Porteur de projet"
             }
+        ],
+        "steps": [
+            {
+                "title": "Couper les tubes aux bonnes dimensions",
+                "duration": 3600,
+                "content": "Suivre le plan joint afin de couper les tubes aux bonnes dimensions.\nPartie supérieure, charnière et partie inférieure."
+            },
+            {
+                "title": "Assembler la partie supérieure en réalisant les soudures à l'arc",
+                "duration": 300,
+                "content": "Réaliser les soudures comme indiquées."
+            },
+            {
+                "title": "Préparer les charnières",
+                "duration": 300,
+                "content": "Reproduire les pièces du schéma suivant"
+            },
+            {
+                "title": "Souder les charnières sur le châssis et sur les 2 montants",
+                "duration": 300,
+                "content": "Reproduire les pièces du schéma suivant et réaliser les soudures comme indiquées."
+            },
+            {
+                "title": "Assembler la charnière",
+                "duration": 300,
+                "content": "Tige filetée et son coude (suivre le plan)"
+            },
+            {
+                "title": "Imprimée la poignée",
+                "duration": 300,
+                "content": "Imprimer le fichier joint."
+            },
+            {
+                "title": "Peinture",
+                "duration": 300,
+                "content": "Peindre tous les tubes pour prévenir de la rouille."
+            },
+            {
+                "title": "Découper les parties plastique",
+                "duration": 300,
+                "content": "Couper les 3 parties plastique, du bois pourrait aussi faire l'affaire."
+            },
+            {
+                "title": "Installer le support de batterie de vélo sur la partie inférieure (Le fond)",
+                "duration": 300,
+                "content": "Visser le support de batterie sur le fond"
+            },
+            {
+                "title": "Modifier le connecteur de batterie",
+                "duration": 300,
+                "content": "Couper les fils soudés sur le connecteur.\nRessouder un fil silicone sur le plus et sur le moins.\nFaites arrivé les fils sur la partie avant du banc."
+            },
+            {
+                "title": "Découper les flancs",
+                "duration": 300,
+                "content": "Respecter le schéma"
+            },
+            {
+                "title": "Assembler les flancs",
+                "duration": 300,
+                "content": "Réaliser l'assemblage complet du banc"
+            },
+            {
+                "title": "Installer le consomateur de puissance",
+                "duration": 300,
+                "content": "Fixer la résistance sur l'un des flancs du banc"
+            },
+            {
+                "title": "Installer le compte tour",
+                "duration": 300,
+                "content": "Imprimer le support et le fixer sur l'un des flancs"
+            },
+            {
+                "title": "Installer la platine support de VESC",
+                "duration": 300,
+                "content": "Percer la platine en suivant le schéma joint.\nFixer la platine sur un flanc extérieur."
+            },
+            {
+                "title": "Réaliser le tableau de bord",
+                "duration": 300,
+                "content": "Découper au laser le fichier suivant et coller les parties indiquées.\nImprimer le cube 3d en 2 exemplaires"
+            },
+            {
+                "title": "Fixer tous les éléments dans le tableau de bord",
+                "duration": 300,
+                "content": "Arduino\nDisjoncteur\nWattmetre\nEcran de l'Arduino\nModule abaisseur de tension"
+            },
+            {
+                "title": "Souder tous les fils",
+                "duration": 300,
+                "content": "Souder tous les éléments ensemble avec les bonnes longueurs de fils."
+            }
         ]
     }
 }
