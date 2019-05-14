@@ -130,6 +130,26 @@
                 "title": "Souder tous les fils",
                 "duration": 300,
                 "content": "Souder tous les éléments ensemble avec les bonnes longueurs de fils."
+            },
+            {
+                "title": "Souder les fils sur le VESC",
+                "duration": 300,
+                "content": "Souder les 2 alimentations\nSouder les 3 Phases de moteurs\nBrancher la poignée ou le potentiomètre"
+            },
+            {
+                "title": "Connecter la carte en usb",
+                "duration": 300,
+                "content": "Brancher le cable"
+            },
+            {
+                "title": "Installer VESC Tool",
+                "duration": 300,
+                "content": "Télécharger et installer"
+            },
+            {
+                "title": "Parametrer la carte",
+                "duration": 300,
+                "content": "Choisir les bons réglages pour l'usage voulu."
             }
         ]
     }
